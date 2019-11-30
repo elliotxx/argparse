@@ -1,6 +1,8 @@
 # argparse
 A 200-line command-line parsing library
 
+blog: [200 行代码实现一个简单的命令行解析库](http://yangyingming.com/article/456/)
+
 ## Installation
 ```
 $ go get -u -v github.com/elliotxx/argparse
